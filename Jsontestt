@@ -4,7 +4,7 @@
 	{
 	"ID":"1001",
 	"Название объекта":"Название объекта",
-	"Видео":"Видео",
+	"Видео":"https://docs.unrealengine.com/4.27/Attachments/WorkingWithMedia/IntegratingMedia/MediaFramework/HowTo/StreamMediaSource/Infiltrator%20Demo.mp4",
 	"Текст":"Текст",
     	"Ссылка":"QR",
     
